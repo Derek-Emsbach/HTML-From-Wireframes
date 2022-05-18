@@ -19,7 +19,8 @@ Your main focus is to pick the correct tags and syntax for HTML attributes
 
 The HTML document in the __index.html__ file should contain at least:
 
-- Top navigation bar
+- anchor tags (`a`)
+- Top navigation bar (`nav`)
 - Main Heading (`h1`)
 - Subheading (`h2`)
 - Main Image (`img`)
